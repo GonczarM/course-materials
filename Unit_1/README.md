@@ -1,63 +1,43 @@
 ## Unit 1 <br> Fundamentals of Front-End Development
 
-### Content
-[Introduction to CLI](./01-dev-environment/1.1-cli-intro-main/)<br>
-[Installfest](./01-dev-environment/1.1.1-installfest-mac.md)<br>
-[Homework Command Line Practice](./01-dev-environment/1.2-hw-command-line-practice.md)<br> 
-[Intro to JavaScript](./02-js-fundamentals/2.1-js-intro-datatypes.md)<br>
-[Control Flow](./02-js-fundamentals/2.2-js-control-flow.md)<br>
-[JS Array Methods Full](./02-js-fundamentals/2.3-js-arrays-full.md)<br>
-[JS Array Methods Part 1](./02-js-fundamentals/2.3-js-arrays-1.md)<br>
-[JS Array Methods Part 2](./02-js-fundamentals/2.3-js-arrays-2.md)<br>
-[JS Array Methods Part 3](./02-js-fundamentals/2.3-js-arrays-3.md)<br>
-[Arrays Lab](./02-js-fundamentals/2.3.1-js-arrays-lab.md)<br> 
-[Functions Full](./02-js-fundamentals/2.4-js-functions-full.md)<br>
-[Functions Part 1](./02-js-fundamentals/2.4-js-functions-1.md)<br>
-[Functions Part 2](./02-js-fundamentals/2.4-js-functions-2.md)<br>
-[Functions Part 3](./02-js-fundamentals/2.4-js-functions-3.md)<br>
-[Scope](./02-js-fundamentals/2.5-js-scope.md)<br>
-[Functions & Scope Lab](./02-js-fundamentals/2.5.1-js-functions-lab.md)<br> 
-[Objects](./02-js-fundamentals/2.7-js-objects.md)<br>
-[Template Literals](./02-js-fundamentals/2.6-js-template-literals.md)<br>
-[Objects Lab](./02-js-fundamentals/2.7.1-js-objects-lab.md)<br> 
-[Intro to HTML](./03-html-css/3.1-intro-to-html.md)<br>
-[Intro to CSS](./03-html-css/3.2-intro-to-css.md)<br>
-[Intro to the DOM](./04-dom/4.1-dom-intro.md)<br>
-[DOM Events](./04-dom/4.2-dom-events.md)<br>
-[DOM Menu Lab Part 1](./04-dom/4.1.1-dom-menu-lab-part-1.md)<br>
-[DOM Menu Lab Part 2](./04-dom/4.2.1-dom-menu-lab-part-2.md)<br>
-[Guide to Building a Browser Game](./05-programming/5.1-guide-to-building-a-browser-game.md)<br>
-[Connect Four Code-Along Full](./05-programming/5.2-connect-four-code-along-full.md)<br> 
-[Connect Four Code-Along Part 1](./05-programming/5.2-connect-four-code-along-1.md)<br> 
-[Connect Four Code-Along Part 2](./05-programming/5.2-connect-four-code-along-2.md)<br> 
-[Connect Four Code-Along Part 3](./05-programming/5.2-connect-four-code-along-3.md)<br> 
-[Connect Four Code-Along Part 4](./05-programming/5.2-connect-four-code-along-4.md)<br> 
-[Connect Four Code-Along Part 5](./05-programming/5.2-connect-four-code-along-5.md)<br> 
-[Connect Four Code-Along Part 6](./05-programming/5.2-connect-four-code-along-6.md)<br> 
-[Tic Tac Toe Homework](./05-programming/5.3-tic-tac-toe-weekend.md)<br>
-[CSS Flexbox](./06-css-layout/6.1-css-flexbox-grid.md)<br>
-[Responsive Design](./06-css-layout/6.2-responsive-design.md)<br>
-[CSS Flexbox-Grid Lab](./06-css-layout/6.1.1-flexbox-grid-lab.md)<br>
-[Flexbox Froggy](https://flexboxfroggy.com/)<br>
-[Grid Garden](https://cssgridgarden.com/)<br>
-[Flexbox Zombies](https://mastery.games/flexboxzombies/)<br>
-[JS Arrow Functions](./07-js-continued/7.1-js-arrow-functions.md)<br>
-[Callback Functions Full](./07-js-continued/7.2-js-callback-functions-full.md)<br>
-[Callback Functions Part 1](./07-js-continued/7.2-js-callback-functions-1.md)<br>
-[Callback Functions Part 2](./07-js-continued/7.2-js-callback-functions-2.md)<br>
-[Callback Functions Part 3](./07-js-continued/7.2-js-callback-functions-3.md)<br>
-[Callbacks Lab](./07-js-continued/7.2.1-js-callbacks-lab.md)<br>
-[Classes Full](./07-js-continued/7.3-js-classes.md)<br>
-[Classes Part 1](./07-js-continued/7.3-js-classes-1.md)<br>
-[Classes Part 2](./07-js-continued/7.3-js-classes-2.md)<br>
-[Classes Part 3](./07-js-continued/7.3-js-classes-3.md)<br>
-[Classes Lab](./07-js-continued/7.3.1.hw.optional-js-classes-lab.md)<br>
-[Array Iterator Methods](./07-js-continued/7.4-array-iterator-methods.md)<br>
-[Array Iterator Methods Lab](./07-js-continued/7.4.1-array-iterator-methods-lab.md)<br>
-[this](./07-js-continued/7.5-js-this-keyword.md)<br>
-[jQuery](./08-libraries-frameworks/8.1-jquery.md)<br>
-[jQuery Lab](./08-libraries-frameworks/8.1.1-jquery-lab.md)<br>
-[Intro to Testing](./10-testing/10.1-testing-lecture/)<br>
-[Intro to Testing Lab](./10-testing/10.1.1-testing-lab/)<br> 
-[Playing Audio in the Browser](./09-programming/9.1-playing-audio.md)<br>
-[Rock Paper Scissors Code-Along](./09-programming/9.2-rock-paper-scissors-codealong.md)<br>
+### Unit 1 Schedule
+| ***Week 1*** | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+| -- | -- | -- | -- | -- | -- |
+| Stand Up | Orientation | Morning Review | ***\*Outcomes\**** | Morning Review | Morning Review |
+| Morning | [*TI Signup Video*](https://generalassembly.wistia.com/medias/azqzv27yqa) and [*TI Signup Link*](https://generalassemb.ly/lms-enroll/bPRPhsMEMus=)<br>---<br>Lesson: [*Installfest*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/getting-started-200341?page=1) | Lesson: [*Intro JS Arrays*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js?page=4)<br>---<br>Lab: [*JS Arrays Lab*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js?page=7) | Walk-Through: [*Cloning the Class Repo*](https://git.generalassemb.ly/SEIR-6-5-23/course-materials#class-repo-structure)<br>---<br>Lesson: [*JS Objects*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=7) | Lesson: [*Intro to the DOM*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=1)<br>---<br>Lab: [*DOM Menu Lab Part 1*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=2) | [*Intro Project 1*](/projects/project-1/project-1-requirements.md)<br>---<br>Lesson: [*Guide to Building a Broswer Game*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/building-a-browser-game/building-a-browser-game?page=1)<br>---<br>Lesson: [*Connect 4 Code Along*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/building-a-browser-game/building-a-browser-game?page=2) |
+| Afternoon | Lesson: [*Intro JS & Data Types*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js?page=1)<br>---<br>Lesson: [*Control Flow in JS*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js?page=2) | Lesson: [*JS Functions*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=1)<br>---<br>Lesson: [*JS Scope*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=5)<br>---<br>Lesson: [*Template Literals*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=9) | Lab: [*JS Objects Lab*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=8)<br>---<br>Lesson: [*Intro to HTML*](https://hub.generalassemb.ly/learn/course/html-and-css-200341-5-june-2023-29-august-2023/html/intro-to-html-200341)<br>---<br>Lesson: [*Intro to CSS*](https://hub.generalassemb.ly/learn/course/html-and-css-200341-5-june-2023-29-august-2023/css/intro-to-css?page=1)<br>---<br>Lab: [*CSS Diner*](https://flukeout.github.io/) | Lesson: [*DOM Events*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=3)<br>---<br>Lab: [*DOM Menu Lab Part 2*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=4) | Quiz: [*Quiz 1*](/quizzes/quiz-wk01.md)<br>---<br>Lesson: [*Connect 4 Code Along (cont.)*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/building-a-browser-game/building-a-browser-game?page=2)<br>---<br>Lab: [*Tic-Tac-Toe*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/weekend-assignment/building-tic-tac-toe?page=1) |
+| Stand Down | Pods/Review<br>---<br>DCC: [*sayHello*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341) | Pod Review<br>---<br>Lab: [*JS Functions Lab*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=6) | Pods/Review | Pods/Review | Pods/Review |
+| Homework | Read: [*The CLI (Command Line Interface)*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/getting-started-200341?page=2)<br>---<br>[*Command Line Practice*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/getting-started-200341?page=3)<br>---<br>DCC: [*addOne*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341?page=2) | [*JS Arrays Lab*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js?page=7)<br>---<br>DCC: [*addTwoNumbers*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341?page=3) | [*JS Objects Lab*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/fundamentals-of-javascript/intro-to-js-continued?page=8)<br>---<br>DCC: [*sumNumbers*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341?page=4) | Dom Menu Lab [*Part 1*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=2) & [*Part 2*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/dom-manipulation-events/introduction-to-the-dom?page=4)<br>---<br>DCC: [*addList*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341?page=5) | [*Tic-Tac-Toe*](https://hub.generalassemb.ly/learn/course/front-end-fundamentals-200341-5-june-2023-29-august-2023/weekend-assignment/building-tic-tac-toe?page=1)<br>---<br>DCC: [*computeRemainder*](https://hub.generalassemb.ly/learn/course/daily-coding-challenges-200341-5-june-2023-29-august-2023/daily-coding-challenges/daily-coding-challenges-200341?page=6) |
+
+----
+
+### Unit 1 Syllabus
+
+#### Terminal, CLI, Git, & GitHub
+- Use the Terminal and Command Line Interface to work with directories and files on your computer
+- Use Git to create and work with repositories saved in a GitHub account.
+- Version Control
+  
+#### JavaScript Fundamentals
+- Data Types, Variables, Primitives
+- Arrays
+- Control Flow
+- Loops and Conditionals
+- Basic and Advanced Functions
+- Objects
+- Callbacks
+- Testing
+  
+#### Web Fundamentals
+- HTML
+- CSS basic styles and layouts (Grid & Flexbox)
+- Box Model
+- Browser APIs
+- DOM
+- Events
+- Servers & Hosting
+
+#### Computer Science
+- Intro to Computer Science
+- Recursive Functions
+- Basic Sorting Algorithms
