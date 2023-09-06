@@ -1,363 +1,330 @@
-# SEIR Course Materials
-#### Standard SEIR Curriculum Course Materials 
-[Guidelines for using these materials](/guidelines.md)
+<img src="https://i.imgur.com/XseXU8J.png" width="900">
 
-## Course Outline
-* [Unit 1](#unit-1--fundamentals-of-front-end-development) - Fundamentals of Front End Development
+# Welcome to General Assembly SEIR-6-5-23
 
-* [Unit 2](#unit-2--full-stack-development) - Full-Stack Development
+This will be your shared class repo!
 
-* [Unit 3](#unit-3--python-django) - Python/Django
+### Contents
 
-* [Unit 4](#unit-4--react-fundamentals) - React Fundamentals
-* [Computer Science](#computer-science-1)
-* [Daily Coding Challenges](#daily-coding-challenges)
+- Course Dates and Holidays
+- Link to the Class Zoom Room
+- Link to Recorded Classroom Sessions
+- Course Curriculum
+- Instructional Team / Contact Info
+- Office Hours Info
+- Deliverables & Daily Code Challenges
+- Class Repository Structure
+- Becoming Familiar With the SEI GitHub Workflow
+- Additional Coding Practice Resources
+- Immersive Graduation Requirements
 
-## Software Engineering Immersive
+### Course Dates and Holidays
 
-## Unit 1 <br> Fundamentals of Front-End Development
+- Course Dates: Monday, June 5th, 2023 - Tuesday, August, 29th, 2023
+- Holidays:
+    - Friday, November 10th (Veterans Day)
+    - Wednesday, November 22th - Friday, November 24th (Thanksgiving Break)
 
-### Content
-- [Potential Unit 1 Schedule](#potential-unit-1-schedule) found below this content.
-- [Individual Unit 1 Lessons](/Unit_1/README.md)
-  
-| Lesson | Topic | Lab | Homework |
-| -- | -- | -- | -- |
-| **Development Environment** | [Introduction to CLI](/Unit_1/01-dev-environment/1.1-cli-intro-main/) | [Installfest](/Unit_1/01-dev-environment/1.1.1-installfest-mac.md) | [Homework Command Line Practice](/Unit_1/01-dev-environment/1.2-hw-command-line-practice.md) |
-| **Intro to JavaScript** | [Intro to JavaScript](/Unit_1/02-js-fundamentals/2.1-js-intro-datatypes.md) | []() | []() |
-| **Control Flow** | [Control Flow](/Unit_1/02-js-fundamentals/2.2-js-control-flow.md) | []()  | []() |
-| **Arrays** | [JS Array Methods](/Unit_1/02-js-fundamentals/2.3-js-arrays-full.md) | [Arrays Lab](/Unit_1/02-js-fundamentals/2.3.1-js-arrays-lab.md)  | []() |
-| **Functions and Scope** | [Functions](/Unit_1/02-js-fundamentals/2.4-js-functions-full.md)<br>---<br>[Scope](/Unit_1/02-js-fundamentals/2.5-js-scope.md) | [Functions & Scope Lab](/Unit_1/02-js-fundamentals/2.5.1-js-functions-lab.md)  | []() |
-| **Objects** | [Objects](/Unit_1/02-js-fundamentals/2.7-js-objects.md)<br>---<br>[Template Literals](/Unit_1/02-js-fundamentals/2.6-js-template-literals.md) | [Objects Lab](/Unit_1/02-js-fundamentals/2.7.1-js-objects-lab.md)  | []() |
-| **HTML** | [Intro to HTML](/Unit_1/03-html-css/3.1-intro-to-html.md) | []() | []() | 
-| **CSS** | [Intro to CSS](/Unit_1/03-html-css/3.2-intro-to-css.md) | []() | []() |
-| **DOM** | [Intro to the DOM](/Unit_1/04-dom/4.1-dom-intro.md)<br>---<br>[DOM Events](/Unit_1/04-dom/4.2-dom-events.md) | [DOM Menu Lab Part 1](/Unit_1/04-dom/4.1.1-dom-menu-lab-part-1.md)<br>---<br>[DOM Menu Lab Part 2](/Unit_1/04-dom/4.2.1-dom-menu-lab-part-2.md) | []() |
-| **Browser Game Guide** | [Guide to Building a Browser Game](/Unit_1/05-programming/5.1-guide-to-building-a-browser-game.md) | [Connect Four Code-Along](/Unit_1/05-programming/5.2-connect-four-code-along-full.md)  | [Tic Tac Toe Homework](/Unit_1/05-programming/5.3-tic-tac-toe-weekend.md) |
-| **CSS Flexbox** | [CSS Flexbox](/Unit_1/06-css-layout/6.1-css-flexbox-grid.md)<br>---<br>[Responsive Design](/Unit_1/06-css-layout/6.2-responsive-design.md) | [CSS Flexbox-Grid Lab](/Unit_1/06-css-layout/6.1.1-flexbox-grid-lab.md) | [Flexbox Froggy](https://flexboxfroggy.com/)<br>---<br>[Grid Garden](https://cssgridgarden.com/)<br>---<br>[Flexbox Zombies](https://mastery.games/flexboxzombies/) |
-| **JS Arrow Functions and Callbacks** | [JS Arrow Functions](/Unit_1/07-js-continued/7.1-js-arrow-functions.md)<br>---<br>[Callback Functions](/Unit_1/07-js-continued/7.2-js-callback-functions-full.md) | [Callbacks Lab](/Unit_1/07-js-continued/7.2.1-js-callbacks-lab.md) |  |
-| **JS Classes** | [Classes](/Unit_1/07-js-continued/7.3-js-classes-full.md) | [Classes Lab](/Unit_1/07-js-continued/7.3.1.hw.optional-js-classes-lab.md) |  |
-| **Array Iterator Methods** | [Array Iterator Methods](/Unit_1/07-js-continued/7.4-array-iterator-methods.md) | [Array Iterator Methods Lab](/Unit_1/07-js-continued/7.4.1-array-iterator-methods-lab.md) |  |
-| **this** | [this](/Unit_1/07-js-continued/7.5-js-this-keyword.md) |  |  |
-| **jQuery** | [jQuery](/Unit_1/08-libraries-frameworks/8.1-jquery.md) | [jQuery Lab](/Unit_1/08-libraries-frameworks/8.1.1-jquery-lab.md) |  | 
-| **Intro to Testing** | [Intro to Testing](/Unit_1/10-testing/10.1-testing-lecture/) | [Intro to Testing Lab](/Unit_1/10-testing/10.1.1-testing-lab/)  |  |
-| **BONUS lessons** | [Playing Audio in the Browser](/Unit_1/09-programming/9.1-playing-audio.md)<br>---<br>[Canvas](https://git.generalassemb.ly/SEI-Standard-Curriculum/learn-canvas) | [Rock Paper Scissors Code-Along](/Unit_1/09-programming/9.2-rock-paper-scissors-codealong.md) |  |
-### Unit 1 Syllabus
+### Link to the Class Zoom Room
 
-#### Terminal, CLI, Git, & GitHub
-- Use the Terminal and Command Line Interface to work with directories and files on your computer
-- Use Git to create and work with repositories saved in a GitHub account.
-- Version Control
-  
-#### JavaScript Fundamentals
-- Data Types, Variables, Primitives
-- Arrays
-- Control Flow
-- Loops and Conditionals
-- Basic and Advanced Functions
-- Objects
-- Callbacks
-- Testing
-  
-#### Web Fundamentals
-- HTML
-- CSS basic styles and layouts (Grid & Flexbox)
-- Box Model
-- Browser APIs
-- DOM
-- Events
-- Servers & Hosting
+[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/97457760967?pwd=SkFvNGxMQ0gwZDNFRkYvcFl1c3VXQT09)
 
-#### Computer Science
-- Intro to Computer Science
-- Recursive Functions
-- Basic Sorting Algorithms
+### Link to Recorded Classroom Sessions
 
-### [Project 1](/Unit_1/project-1/project-1-requirements.md)
-
-### Potential Unit 1 Schedule
-| Week 1 | Lecture(s) | Lab(s) | Homework | Daily Coding Challenge |
-| -- | -- | -- | -- | -- |
-| Day 1 | [Introduction to CLI](./Unit_1/01-dev-environment/1.1-cli-intro-main/readme.md)<br>---<br>[Intro to JavaScript](./Unit_1/02-js-fundamentals/2.1-js-intro-datatypes.md)<br>---<br>[Control Flow](./Unit_1/02-js-fundamentals/2.2-js-control-flow.md) | [Installfest](./Unit_1/01-dev-environment/1.1-installfest-mac.md) | [Homework Command Line Practice](./Unit_1/01-dev-environment/1.hw-command-line-practice.md) | [addOne](https://replit.com/@jim_clark/01-addOne#challenge.js) |
-| Day 2 | [JS Array Methods](./Unit_1/02-js-fundamentals/2.3-js-arrays-full.md)<br>---<br>[Functions](./Unit_1/02-js-fundamentals/2.4-js-functions-full.md)<br>---<br>[Scope](./Unit_1/02-js-fundamentals/2.5-js-scope.md) | [Arrays Lab](./Unit_1/02-js-fundamentals/2.3.1-js-arrays-lab.md)<br>---<br>[Functions & Scope Lab](./Unit_1/02-js-fundamentals/2.5.1-js-functions-lab.md) | [Arrays Lab](./Unit_1/02-js-fundamentals/2.3.1-js-arrays-lab.md) | [addTwoNumbers](https://replit.com/@jim_clark/02-addTwoNumbers#challenge.js) |
-| Day 3 | [Objects](./Unit_1/02-js-fundamentals/2.7-js-objects.md)<br>---<br>[Template Literals](./Unit_1/02-js-fundamentals/2.6-js-template-literals.md)<br>---<br>[Intro to HTML](./Unit_1/03-html-css/3.1-intro-to-html.md)<br>---<br>[Intro to CSS](./Unit_1/03-html-css/3.2-intro-to-css.md) | [Objects Lab](./Unit_1/02-js-fundamentals/2.7.1-js-objects-lab.md)<br>---<br>[CSS Diner](https://flukeout.github.io/) | [Objects Lab](./Unit_1/02-js-fundamentals/2.7.1-js-objects-lab.md) | [sumNumbers](https://replit.com/@jim_clark/03-sumNumbers#challenge.js) |
-| Day 4 | [Intro to the DOM](./Unit_1/04-dom/4.1-dom-intro.md)<br>---<br>[DOM Events](./Unit_1/04-dom/4.2-dom-events.md) | [DOM Menu Lab Part 1](./Unit_1/04-dom/4.1.1-dom-menu-lab-part-1.md)<br>---<br>[DOM Menu Lab Part 2](./Unit_1/todo-list_dom_lab.md) | Lab Completion | [addList](https://replit.com/@jim_clark/04-addList#challenge.js) |
-| Day 5 | [Guide to Building a Browser Game](/Unit_1/05-programming/5.1-guide-to-building-a-browser-game.md) | [Connect Four Code-Along](./Unit_1/05-programming/5.2-connect-four-code-along-full.md) | [Tic Tac Toe Homework](./Unit_1/05-programming/5.3-tic-tac-toe-weekend.md) | [computeRemainder](https://replit.com/@jim_clark/05-computeRemainder#challenge.js) |
+Links to in-class recording sessions will be maintained in this file in the `resources` folder of the class repo:  
+ [Links to the Recorded Classroom Sessions](./resources/class-recordings.md).
 
 
-| Week 2 | Lecture(s) | Lab(s) | Homework | Daily Coding Challenge |
-| -- | -- | -- | -- | -- |
-| Day 6 | [CSS Flexbox/Grid](./Unit_1/06-css-layout/6.1-css-flexbox-grid.md)<br>---<br>[Responsive Design](./Unit_1/06-css-layout/6.2-responsive-design.md) | [CSS Flexbox/Grid Lab](./Unit_1/06-css-layout/6.1.1-flexbox-grid-lab.md) | [Flexbox Froggy](https://flexboxfroggy.com/)<br>---<br>[Flexbox Zombies](https://mastery.games/flexboxzombies/)<br>---<br>[Grid Garden](https://cssgridgarden.com/) | [range](https://replit.com/@jim_clark/06-range#challenge.js) |
-| Day 7 | [Arrow Functions](./Unit_1/07-js-continued/7.1-js-arrow-functions.md)<br>---<br>[Callback Functions](./Unit_1/07-js-continued/7.2-js-callback-functions-full.md) | [Callbacks Lab](./Unit_1/07-js-continued/7.2.1-js-callbacks-lab.md) | [JS Classes Lab](./Unit_1/07-js-continued/7.3.1.hw.optional-js-classes-lab.md) | [reverseUpcaseString](https://replit.com/@jim_clark/07-reverseUpcaseString#challenge.js) |
-| Day 8 | [Array Iterator Methods](./Unit_1/07-js-continued/7.4-array-iterator-methods.md)<br>---<br>[this](./Unit_1/07-js-continued/7.5-js-this-keyword.md)<br>---<br>[JS Classes](./Unit_1/07-js-continued/7.3-js-classes-full.md) | [Array Iterator Methods Lab](./Unit_1/07-js-continued/7.4.1-array-iterator-methods-lab.md) | Lab Completion | [removeEnds](https://replit.com/@jim_clark/08-removeEnds#challenge.js) |
-| Day 9 | [Intro to Testing](./Unit_1/10-testing/10.1-testing-lecture/) | [Intro to Testing Lab](./Unit_1/10-testing/10.1.1-testing-lab/) | Lab Completion | [charCount](https://replit.com/@jim_clark/09-charCount#challenge.js) |
-| Day 10 | [Project 1](./Unit_1/project-1/project-1-requirements.md) | [Build Another Game Guide](./Unit_1/09-programming/9.2-rock-paper-scissors-codealong.md) | Lab Completion | [formatWithPadding](https://replit.com/@jim_clark/10-formatWithPadding#challenge.js) |
+### Course Curriculum
+
+> The following is an overall schedule and is subject to change.
+
+<table>
+  <thead>
+    <tr><th>Unit</th><th>Week</th><th>Topics</th><th>Project</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Fundamentals of Front-end Development</td>
+      <td align="center">1</td>
+      <td>Fundamentals of JavaScript, HTML & CSS<br>DOM Manipulation & Events<br>Structuring a Browser App</td>
+      <td rowspan="3">Browser-based Game</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>CSS: Flexbox, Grid & Responsive Design<br>JS: Callback functions, Classes, this Keyword, Array Iterator Methods, Testing & Playing Audio</td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Project Week<br>Project Deployment to GitHub Pages</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Full-stack Development</td>
+      <td align="center">4</td>
+      <td>Client-Server: HTTP Communications & RESTful Routing<br>NodeJS & ExpressJS Framework<br>MongoDB & MongooseJS ODM<br>Computer Science</td>
+      <td rowspan="3">MEN-stack CRUD Application</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>MongooseJS ODM<br>Authentication using OAuth<br>User-Centric CRUD<br>Regular Expressions<br>CS Topics</td>
+    </tr>
+    <tr>
+      <td align="center">6</td>
+      <td>CS Topics<br>Project Week<br>Project Deployment to Heroku</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Second Language & Web Framework</td>
+      <td align="center">7</td>
+      <td>Relational Databases & SQL<br>Fundamentals of Python<br>CS Topics</td>
+      <td rowspan="3">Group Project: Full-stack Django Application</td>
+    </tr>
+    <tr>
+      <td align="center">8</td>
+      <td>Django Web Framework<br>Uploading Files to Amazon S3<br>Username/Password Authentication</td>
+    </tr>
+    <tr>
+      <td align="center">9</td>
+      <td>CS Topics<br>Project Week<br>Project Deployment to Heroku</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Developing Single-page Apps</td>
+      <td align="center">10</td>
+      <td>Fundamentals of React<br>MERN-Stack Infrastructure</td>
+      <td rowspan="3">MERN-Stack Application</td>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td>MERN-Stack Infrastructure (cont.)<br>Token-based Authentication</td>
+    </tr>
+    <tr>
+      <td align="center">12</td>
+      <td>CS Topics<br>Project Week<br>Project Deployment to Heroku</td>
+    </tr>
+  </tbody>
+</table>
+
+### Instructional Team Contact Information
+
+|          Role           | Name |     Slack      | Email                             |
+|:-----------------------:|:------:|:--------------:|:---------------------------------:|
+|     Lead Instructor     | Kenneth Chang  | @Kenneth Chang |  kenneth.chang@generalassemb.ly   |
+| Sr. Instructional Associate | Matthew Gonczar | @Matthew Gonczar | matthew.gonczar@generalassemb.ly |
+| Instructional Associate | Payne Fulcher | @Payne Fulcher | payne.fulcher@generalassemb.ly |
+
+### After Hours TA Sessions
+
+Office Hours will be held nightly by Payne and Evan. This time will be an open forum to ask questions and receive assistance with homework. Feel free to pop by any time that works for you. The weekly schedule will be as follows:
+- Monday - Thursday from 6PM - 8PM
+- Saturday from 12PM - 2PM
+
+### Deliverables
+
+A Deliverable is an assignment that is required to be submitted. Although not all labs/homework are required to be
+submitted as deliverables, they are still to be completed when assigned since they provide the necessary practice for
+the lessons taught.
+
+Graduation requires that 80% of deliverables be completed (working) and delivered on time.
+
+In the case of multi-part labs, each part will count as one deliverable, however, all parts will be submitted by a
+single due date.
+
+All submitted deliverables must "work" and meet the minimum requirements.
+
+Unless otherwise stated, no deliverable will be accepted past its due date, which is typically by 9AM PST of the following day of instruction.
+
+### Daily JavaScript Code Challenges (Deliverables)
+
+There are 30 required code challenges that will help you get the necessary learning on:
+
+- Algorithmic thinking (how to solve problems by breaking it into a series of steps)
+- Features & methods available in JavaScript
+- Tips, tricks, techniques & approaches of solving specific problems.
+
+Each challenge is assigned in Thought Industries and is implemented on [replit.com](https://replit.com).
+
+It is **highly recommended that you complete one code challenge per day** during the first 30 days of class, excluding project weeks.  You wll have up to 3 days to submit each challenge, however, you will benefit by completing each challenge on or near the day that it is assigned.
+
+Solution code is provided with each challenge.  It is recommended that you review the solution(s) AFTER you have solved the challenge on your own - reviewing the solutions will often provide new techniques to solving problems.  If you find yourself stuck after working hard to solve the challenge on your own, feel free to peek at the solutions for help, however, always take the time to fully read and understand each line of code of the solution code works.
+
+Let's solve day 1's solution together!
+
+### Class Repo Structure
+
+```
+/SEIR-9-11
+    /computer-science 
+    /resources
+    /unit-1
+      /README.md
+```
+
+### Becoming Familiar With the SEI GitHub Workflow
+
+#### Forking (copying) the GA Class Repo to Your GitHub Account
+
+You will have read-only access to the GA class repo. However, you most certainly will want to be able to make changes (
+e.g., add notes, save code exercises, etc). These changes will be saved to your own personal copy of GA's Student repo -
+known as a **fork**. To get this fork do the following:
+
+1. Make sure that you're logged in to your GA **Enterprise** GitHub account. If you have not signed up yet, here's the
+   link to do so: [https://git.generalassemb.ly/join?source=header](https://git.generalassemb.ly/join?source=header)
+2. In another tab, browse to the GA class
+   repo:  [https://git.generalassemb.ly/SEIR-9-11/course-materials](https://git.generalassemb.ly/SEIR-9-11/course-materials)
+3. In the top-right corner of the page, click the `Fork` button.
+You now have a copy of the repo in **your** Enterprise GitHub account!
+
+#### Cloning Your Copy of the Repository Locally
+
+Now that you have a copy of the class repo in your GitHub account, it's time to bring the contents of that repo onto
+your computer - this process is known as **cloning** and it only needs to be done once:
+
+1. On your Enterprise GitHub account, browse to your fork of the GitHub class repo and under the repository name
+   click `Clone or download`
+2. In the `Clone with HTTPS` section, click the clipboard to copy the URL for the repository.
+3. Open Terminal and navigate to your `~/code` folder - you may choose a different folder if you wish, however these
+   instructions will assume you clone the repo into a folder named `code`.
+4. In Terminal, type `git clone ` and follow it by pasting in the copied URL from the clipboard. The command should now
+   look something like this:
+
+```
+$ git clone https://git.generalassemb.ly/SEIR-9-11/course-materials.git
+```
+
+#### Adding a git _remote_ for the original GA class repo
+
+A repo on your computer is called a **local repo** ("repo" is short for repository).
+
+Repos on GitHub are called **remote** repos. Think of them as repos in the cloud.
+
+When you cloned your fork of the repo, a "link" to the git **remote** was automatically created. You can check which
+remotes exist for a given local repo using this command:
+
+```
+$ git remote -v
+```
+
+Note that by convention, the remote that points to the GitHub repo it was cloned from is named **origin**.
+
+However, in order to get the updates that the instructors push to the GA class repo, you will need to create another **
+remote** that points to GA's class repo that you forked:
+
+```
+$ git remote add upstream https://git.generalassemb.ly/SEIR-9-11/course-materials.git
+```
+
+Note that by convention, the remote that points to the *original* GitHub repo that was forked is named **upstream**.
+
+Entering `$ git remote -v` again will show that you now have two remotes: `origin` (your fork of GA's class repo)
+and `upstream` (GA's class repo).
+
+#### Getting Changes Pushed by Your Instructors
+
+Every so often, instructional materials may be pushed to the class repo by your instructors. At some point before the end of the
+cohort, you will want to "pull" these materials into your local repo (on your computer) if you want to keep a copy of these materials.
+
+First, if you've made any changes **within** the repo locally, i.e., you've modified some code, you will need
+to **commit** those changes first:
+
+```
+$ git add -A
+$ git commit -m "Add amazing work..."
+```
+
+With local changes committed, you can now fetch the updates from the Github class repo and merge them into your **
+local** repo (on your computer):
+
+```
+$ git pull upstream main
+```
+
+From time to time, you will want to "save" the commits you have made locally to your forked GitHub class repo (in the
+cloud). Doing so is a good idea to ensure your work is backed up to the cloud in case of computer failure:
+
+```
+$ git push origin main
+```
+
+The above Git/GitHub workflow is summarized by this diagram:
+
+<img src="https://i.imgur.com/OryAQVa.png">
+
+#### Git Merge Conflicts
+
+A **merge conflict** occurs when git merges two commits that have modified the same region of code and can't figure out
+whose code to use. Thus, fixing merge conflicts requires that a developer manually update the code to what it should be
+and re-commit it to resolve the conflict, which will also finish git's merge process.
+
+Git informs you which files have merge conflicts and will *annotate* your code to show you how your local code differs
+from the code being merged from the remote. An example of such annotation is below.
+
+```
+<<<<<<< HEAD
+// Local code is here 
+=======
+// Changes you are pulling are here
+>>>>>>> 75c37cea922afc56e7d686adba063b986013ca9f
+```
+
+Once you have resolved these merge conflicts by editing the code and removing the markers, you can `add` and `commit`
+normally.
+
+During group project merge conflicts will likely occur giving you an opportunity to learn more about them then.
+
+#### Important
+
+**"Nested" repos are never permitted**. Therefore, if you have important code, such as your projects, that belongs in
+its own repo, **be sure to put that code in folders outside of the class repo**.
+
+### Additional Coding Practice Resources
+
+If/when you find yourself with extra time, and assuming you are caught up with your Daily JavaScript Code Challenges,
+look into these external resources:
+
+#### edabit
+
+[edabit](https://edabit.com/challenges/javascript) is a great practice site and has lots of challenges designed for
+beginners!
+
+#### codewars
+
+[codewars](https://www.codewars.com/) is an excellent source of coding challenges for numerous programming languages.
+
+It's free, so be sure to create an account so that you can track your progress.
+
+Code challenges (called _Kata_) vary in difficulty from "8kyu" (easiest) to "1kyu".
+
+#### Daily Coding Problem
+
+Sign up [here](https://www.dailycodingproblem.com/) to have a daily coding challenge of varying degrees of difficulty emailed to you.
 
 
-| Project Week | Stand-up | Support |
-| -- | -- | -- |
-| Day 11 | ✅ | ✔️ |
-| Day 12 | ✅ | ✔️ |
-| Day 13 | ✅ | ✔️ |
-| Day 14 | ✅ | ✔️ |
-| Day 15 | Presentation Day | ✔️ |
-<hr>
+#### Interview Cake
 
-## Unit 2 <br> Full-Stack Development
+Designed to prep you technical interviews, [Interview Cake](https://www.interviewcake.com/) comes highly recommended.
 
-### Content
-- [Potential Unit 2 Schedule](#potential-unit-2-schedule) found below this content.
-- [Individual Unit 2 Lessons](/Unit_2/README.md)
+It's not free, however, you should take advantage of its free 7-day email crash course and decide to if its worth the
+bucks to you.
 
-| Lesson | Topic | Lab | Homework |
-| -- | -- | -- | -- |
-| **Intro to Full Stack and Node** | [Intro to Full Stack Development](./Unit_2/1-intro-full-stack/1.1-intro-fullstack-http.md)<br>---<br>[Intro to Node](./Unit_2/2-node/1.2-intro-to-node-full.md) | [Server-side Debugging Setup](./Unit_2/2-node/1.3-server-side-debugging-setup.md) |  | 
-| **Intro to Express** | [Intro to Express](/Unit_2/3-express-framework/3.1-intro-express.md) | [Express Lab](./Unit_2/3-express-framework/3.1.1-intro-express-lab.md)  |  |
-| **Express Routers & Controllers** | [Express Routers & Controllers](./Unit_2/3-express-framework/3.2-express-routers-controllers-full.md) | [Dev Skills Lab Part 1](./Unit_2/3-express-framework/3.3.1-dev-skills-lab-part-1.md)  |  |
-| **Express Framework** | [EJS Partial Templates](./Unit_2/3-express-framework/3.3-ejs-partial-templates.md)<br>---<br>[Express Middleware](./Unit_2/3-express-framework/3.4-express-middleware-full.md) | [Express Update To Do](./Unit_2/3-express-framework/3.5-express-update-to-do.md)<br>---<br>[Dev Skills Lab Part 2](./Unit_2/3-express-framework/3.5.1-dev-skills-lab-part-2.md)  |  |
-| **Promises** | [Promises](./Unit_2/4-promises/4.1-js-promises.md) |  |  |
-| **APIs** | [Consuming 3rd Party APIs](./Unit_2/5-apis/5.1-consuming-3rd-party-apis-full.md) | [Consuming APIs Lab](./Unit_2/5-apis/5.2-consuming-apis-lab.md)  |  |
-| **Regular Expressions** | [Regular Expressions](./Unit_2/6-regular-expressions/6.1-regular-expressions.md) |  |  |
-| **Intro to MongoDB** | [Atlas Hosted MongoDB](./Unit_2/7-mongodb/7.1-atlas-hosted-mongodb.md)<br>---<br>[Intro to MongoDB](./Unit_2/7-mongodb/7.2-mongodb-intro.md) |  |  |
-| **Intro to Mongoose** | [Intro to Mongoose](./Unit_2/8-mongoose/8.1-mongoose-intro-full.md) | [Mongoose Flights Lab Part 1](./Unit_2/8-mongoose/8.1.2-mongoose-flights-lab-part-1.md) |  |
-| **Mongoose Embedding Related Data** | [Embedding Related Data](./Unit_2/8-mongoose/8.2-mongoose-embedding-related-data-full.md) | [Mongoose Flight Labs Part 2](./Unit_2/8-mongoose/8.2.1-mongoose-flights-lab-part-2.md)<br>---<br>[Single Model "Create" Practice](./Unit_2/8-mongoose/8.3-optional-mongoose-single-model-create-practice.md) |  |
-| **Mongoose Referencing Related Data** | [Referencing Related Data](./Unit_2/8-mongoose/8.4-mongoose-referencing-related-data-full.md) | [Mongoose Flight Labs Part 3](./Unit_2/8-mongoose/8.4.1-mongoose-flights-lab-part-3.md)<br>---<br>[Mongoose Seeding Data & Queries Lab](./Unit_2/8-mongoose/8.4.2-mongoose-seeding-data-and-queries-lab.md) |  |
-| **OAuth & Express Passport** | [Google OAuth & Authorization](./Unit_2/9-authentication/9.1-oauth-authentication-full.md) |  |  |
-| **Deployment** | [Heroku & Atlas](./Unit_2/10-heroku-atlas-deployment/README.md) |  |  |
-| **Express TDD** | [Express Testing](./Unit_2/11-testing-node/11.1-express-tdd-master/) | [Express Testing Lab](./Unit_2/11-testing-node/11.1.1-express-testing-lab/)  | []() |
+### GA SEI Graduation Requirements
 
-### Unit 2 Syllabus
+General Assembly's courses are pass/fail programs. We have certain requirements in order to be considered a graduate of
+the SEI program:
 
-#### Node & Express
-- Intro to the World Wide Web
-- Node
-- Express
-- Postman
-  
-#### APIs & JSON
-- Intro to REST APIs
-- MVC - Models, Views, Controllers
-- Routes
-- CRUD
-  
-#### MongoDb/Mongoose
-- Axios
-- Promises
-- Callbacks
-- MongoDB
-- Mongoose
+- No more than 3 days absent from class over the duration of the course (3 tardies equals 1 absence)
+- Successful completion of four assigned projects.
+- Successful completion of each project's assessment. Passing the project assessment is a requirement of the project
+  itself.
+- If you fail any part of a project (the project requirements, or the project assessment), you can resubmit that part **
+  once**.
+- No violation of GA's zero tolerance plagiarism policy.
+- Participating in GA’s mid-course and end-of-course feedback surveys
+- Complete 80% of assigned "deliverables"
 
-#### MEN Stack
-- Schemas
-- Authentication
-- ERD Models
-- Deployment
+When you complete our program with passing status, you unlock our alumni perks:
 
-### [Project 2](/Unit_2/project-2/project-2.md)
+- Support from the Outcomes Team, including participation in the Meet & Greet event (with prospective employers).
+- Receive a GA Letter of Completion (via email approximately 1 week after graduation)
+- Credits and discounts for other GA courses (check with Student Services for details).
+- Access to our Alumni Community
 
-### Potential Unit 2 Schedule
-#### Work in Progress pending Mongoose update of curriculum
-| Week 4 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Challenge |
-| -- | -- | -- | -- | -- | -- |
-| Day 16 | [Intro to Full Stack Development](./Unit_2/1-intro-full-stack/1.1-intro-fullstack-http.md)<br>---<br>[Intro to Node](./Unit_2/2-node/1.2-intro-to-node-full.md)<br>---<br>[Intro to Express](./Unit_2/3-express-framework/3.1-intro-express.md) | [Server-Side Debugging Setup](./Unit_2/2-node/1.3-server-side-debugging-setup.md)<br>---<br>[Express Lab](./Unit_2/3-express-framework/3.1.1-intro-express-lab.md) | Lab Completion |  | [isPalindrome](https://replit.com/@jim_clark/11-isPalindrome#challenge.js) |
-| Day 17 | [Express Routers & Controllers](./Unit_2/3-express-framework/3.2-express-routers-controllers-full.md) | [Dev Skills Lab Part 1](./Unit_2/3-express-framework/3.3.1-dev-skills-lab-part-1.md) | Lab Completion | [CS Big-O Notation](./computer-science/01-cs-big-o-notation/)  | [hammingDistance](https://replit.com/@jim_clark/12-hammingDistance#challenge.js) |
-| Day 18 | [Express Middleware](./Unit_2/3-express-framework/3.4-express-middleware-full.md) | [Express Update To Do](./Unit_2/3-express-framework/3.5-express-update-to-do.md)<br>---<br>[Dev Skills Lab Part 2](./Unit_2/3-express-framework/3.5.1-dev-skills-lab-part-2.md) | Lab Completion |  | [mumble](https://replit.com/@jim_clark/13-mumble#challenge.js) |
-| Day 19 | [Consuming 3rd-party APIs](./Unit_2/5-apis/5.1-consuming-3rd-party-apis-full.md)<br>---<br>[JS Promises](./Unit_2/4-promises/4.1-js-promises.md) | [Consuming an API Lab](./Unit_2/5-apis/5.2-consuming-apis-lab.md) | Lab Completion | [Recursion](/computer-science/02-cs-recursion/) | [fromPairs](https://replit.com/@jim_clark/14-fromPairs#challenge.js) |
-| Day 20 | [Atlas MongoDB Setup](./Unit_2/7-mongodb/7.1-atlas-hosted-mongodb.md)<br>---<br>[Intro to MongoDB](./Unit_2/7-mongodb/7.2-mongodb-intro.md) | Open Lab Time | Lab Completion |  | [mergeObjects](https://replit.com/@jim_clark/15-mergeObjects#challenge.js) |
-
-
-| Week 5 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Challenge |
-| -- | -- | -- | -- | -- | -- |
-| Day 21 | [Intro to Mongoose](./Unit_2/8-mongoose/8.1-mongoose-intro-full.md) | [Mongoose Flights Lab Part 1](./Unit_2/8-mongoose/8.1.2-mongoose-flights-lab-part-1.md) | Lab Completion |  | [findHighestPriced](https://replit.com/@jim_clark/16-findHighestPriced#challenge.js) |
-| Day 22 | [Mongoose - Embedding Related Data](./Unit_2/8-mongoose/8.2-mongoose-embedding-related-data-full.md) | [Mongoose Flights Lab Part 2](./Unit_2/8-mongoose/8.2.1-mongoose-flights-lab-part-2.md) |  | [Intro to Sorts](./computer-science/03-cs-intro-to-sorting/) | [mapArray](https://replit.com/@jim_clark/17-mapArray#challenge.js) |
-| Day 23 | [Mongoose Referencing Related Data](./Unit_2/8-mongoose/8.4-mongoose-referencing-related-data-full.md) | [Mongoose Seeding Related Data & Queries Lab](./Unit_2/8-mongoose/8.4.2-mongoose-seeding-data-and-queries-lab.md) | Lab Completion |  | [reduceArray](https://replit.com/@jim_clark/18-reduceArray#challenge.js) |
-| Day 24 | [OAuth Authentication](./Unit_2/9-authentication/9.1-oauth-authentication-full.md) | [Mongoose Flights Lab Part 3](./Unit_2/8-mongoose/8.4.1-mongoose-flights-lab-part-3.md) |  | [Basic Sorts](/computer-science/04-cs-basic-sorts/) | [flatten](https://replit.com/@jim_clark/19-flatten#challenge.js) |
-| Day 25 | [Testing - Express](./Unit_2/11-testing-node/11.1-express-tdd-master/) | [Testing - Express Lab](./Unit_2/11-testing-node/11.1.1-express-testing-lab/) | [Project 2](./Unit_2/project-2/project-2.md) |  | [isPrime](https://replit.com/@jim_clark/20-isPrime#challenge.js) |
-
-
-| Project Week | Stand-up | Support |
-| -- | -- | -- |
-| Day 26 | ✅ | ✔️ |
-| Day 27 | ✅ | ✔️ |
-| Day 28 | ✅ | ✔️ |
-| Day 29 | ✅ | ✔️ |
-| Day 30 | Presentation Day | ✔️ |  
-<hr>
-
-## Unit 3 <br> Python-Django
-
-### Content
-- [Potential Unit 3 Schedule](#potential-unit-3-schedule-1) found below this content.
-- [Individual Unit 3 Lessons](/Unit_3/README.md)
-
-| Lesson | Topic | Lab | Homework |
-| -- | -- | -- | -- |
-| **Intro to Python** | [Intro to Python](./Unit_3/1-python/1.1-intro-python.md)<br>---<br>[Python Control Flow](./Unit_3/1-python/1.2-python-control-flow.md) | [Control Flow Lab](./Unit_3/1-python/1.2.1-control-flow-lab.md)  |  |
-| **Python Containers** | [Python Containers](./Unit_3/1-python/1.3-python-containers-full.md) | [Containers Lab](./Unit_3/1-python/1.3.1-containers-lab.md) |  |
-| **Python Functions** | [Python Functions](./Unit_3/1-python/1.4-python-functions.md-full) | [Python Functions Lab](./Unit_3/1-python/1.4.1-python-functions-lab.md) |  |
-| **Python Classes** | [Python Classes](./Unit_3/1-python/1.5-python-classes.md) | [Py Pac Poe Lab](./Unit_3/1-python/1.6-optional-py-pac-poe-lab.md) |  |
-| **SQL Databases** | [Intro to SQL](./Unit_3/2-sql-databases/2.1-intro-sql.md) | [SQL Lab](./Unit_3/2-sql-databases/2.1.1-sql-lab.md) |  |
-| **Relational Data Modeling** | [Relational Data Modeling](./Unit_3/2-sql-databases/2.2-relational-data-modeling.md) | [Relational Data Modeling Lab](./Unit_3/2-sql-databases/2.2.1-optional-data-modeling-lab.md) |  |
-| **Django** | [Intro to Django](./Unit_3/3-django/3.1-intro-django.md)<br>---<br>[Django URLs, Views, and Templates](./Unit_3/3-django/3.2-django-urls-views-templates-full.md) | [Finch Collector Lab Part 1](./Unit_3/3-django/3.2.1-finch-collector-lab-part-1.md) |  |
-| **Django Models** | [Django Models](./Unit_3/3-django/3.3-django-models.md) | [Finch Collector Lab Part 2](./Unit_3/3-django/3.3.1-finch-collector-lab-part-2.md) |  |
-| **Django Class-based Views** | [Django Class-based Views](./Unit_3/3-django/3.4-django-class-based-views.md) | [Finch Collector Lab Part 3](./Unit_3/3-django/3.4.1-finch-collector-lab-part-3.md) |  |
-| **Django 1 to Many Models** | [Django 1:N Models](./Unit_3/3-django/3.5-django-one-to-many-models-full.md) | [Finch Collector Lab Part 4](./Unit_3/3-django/3.5.1-finch-collector-lab-part-4.md) |  |
-| **Django Many to Many Models** | [Django M:N Models](./Unit_3/3-django/3.6-django-many-to-many-models-full.md) | [Finch Collector Lab Part 5](./Unit_3/3-django/3.6.1-finch-collector-lab-part-5.md) |  |
-| **Uploading Images to S3 in Django** | [Uploading Images to S3 in Django](./Unit_3/3-django/3.7-uploading-images-s3-django.md) | [Django Authentication](/Unit_3/3-django/3.8-django-authentication.md) |  |
-
-### Unit 3 Syllabus
-
-#### Python
-- Python Fundamentals
-- Control Flow
-- Containers
-- Functions
-- Classes
-  
-#### SQL
-- SQL Fundamentals
-- Relational Data Modeling
-  
-#### Django
-- Django Fundamentals
-- URLs, Views & Templates
-- Models
-- Class-based Views
-- 1:N & M:N Models
-
-#### [Project 3](/Unit_3/project-3/project-3-requirements.md)
-- Highlights
-  
-### Potential Unit 3 Schedule
-| Week 7 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Coding Challenges |
-| -- | -- | -- | -- | -- | -- |
-| Day 31 | [Intro to Python](./Unit_3/1-python/1.1-intro-python.md)<br>---<br>[Control Flow in Python](./Unit_3/1-python/1.2-python-control-flow.md) | [Control Flow Python Lab](./Unit_3/1-python/1.2-python-control-flow.md) | Lab Completion |  | HackerRank or LeetCode |
-| Day 32 | [Python Containers](./Unit_3/1-python/1.3-python-containers-full.md) | [Python Containers Lab](./Unit_3/1-python/1.3.1-containers-lab.md) | Lab Completion | [Binary Trees](./computer-science/10-binary-trees-and-tries/) | HackerRank or LeetCode |
-| Day 33 | [Python Functions](./Unit_3/1-python/1.4-python-functions-full.md)<br>---<br>[Python Classes](./Unit_3/1-python/1.5-python-classes.md) | [Python Functions Lab](./Unit_3/1-python/1.4.1-python-functions-lab.md)<br>---<br>[**Optional** Py-Pac-Poe Lab](./Unit_3/1-python/1.6-optional-py-pac-poe-lab.md) | Lab Completion |  | HackerRank or LeetCode |
-| Day 34 | [Intro to Relational DBs & SQL](./Unit_3/2-sql-databases/2.1-intro-sql.md)<br>---<br>[Relational Data Modeling](./Unit_3/2-sql-databases/2.2-relational-data-modeling.md) | [Carmen Sandiego Lab](./Unit_3/2-sql-databases/2.1.1-sql-lab.md)<br>---<br>[**Optional** Data Modeling Lab](./Unit_3/2-sql-databases/2.2.1-optional-data-modeling-lab.md) | Lab Completion | [Graphs](./computer-science/11-graphs/) | HackerRank or LeetCode |
-| Day 35 | [Intro to Django](./Unit_3/3-django/3.1-intro-django.md) | [Django Tutorial](https://docs.djangoproject.com/en/4.1/intro/tutorial01/) | Lab Completion |  | HackerRank or LeetCode |
-
-| Week 8 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Coding Challenges |
-| -- | -- | -- | -- | -- | -- |
-| Day 36 | [Django URLs, Views, and Templates](./Unit_3/3-django/3.2-django-urls-views-templates-full.md) | [Finch Collector Lab Part 1](./Unit_3/3-django/3.2.1-finch-collector-lab-part-1.md) | Lab Completion | [Design Patterns](./computer-science/extra-modules/design-patterns/) | HackerRank or LeetCode |
-| Day 37 | [Django Models](./Unit_3/3-django/3.3-django-models.md) | [Finch Collector Lab Part 2](./Unit_3/3-django/3.3.1-finch-collector-lab-part-2.md) | Lab Completion |  | HackerRank or LeetCode |
-| Day 38 | [Django Class-Based Views](./Unit_3/3-django/3.4-django-class-based-views.md)<br>---<br>[Django 1:N Models](./Unit_3/3-django/3.5-django-one-to-many-models-full.md) | [Finch Collector Lab Part 3](./Unit_3/3-django/3.4.1-finch-collector-lab-part-3.md) | Lab Completion | [Distribution Sorts](./computer-science/extra-modules/distribution-sorts/) | HackerRank or LeetCode |
-| Day 39 | [Django M:N Models](./Unit_3/3-django/3.6-django-many-to-many-models-full.md) | [Finch Collector Lab Part 4](./Unit_3/3-django/3.5.1-finch-collector-lab-part-4.md) | Lab Completion |  | HackerRank or LeetCode |
-| Day 40 | [Uploading Images to S3 in Django](./Unit_3/3-django/3.7-uploading-images-s3-django.md)<br>---<br>[Django Authentication](./Unit_3/3-django/3.8-django-authentication.md) | [Finch Collector Lab Part 5](./Unit_3/3-django/3.6.1-finch-collector-lab-part-5.md) | Lab Completion | [Sets](./computer-science/extra-modules/sets/) | HackerRank or LeetCode |
-
-| Project Week | Stand-up | Support |
-| -- | -- | -- |
-| Day 41 | ✅ | ✔️ |
-| Day 42 | ✅ | ✔️ |
-| Day 43 | ✅ | ✔️ |
-| Day 44 | ✅ | ✔️ |
-| Day 45 | Presentation Day | ✔️ |
-<hr>
-
-## Unit 4 <br> React-MERN
-
-### Content
-- [Potential Unit 4 Schedule](#potential-unit-4-schedule) found below this content.
-- [Individual Unit 4 Lessons](/Unit_4/README.md)
-
-| Lesson | Topic | Lab | Homework |
-| -- | -- | -- | -- |
-| **Intro to React & Props** | [React & Components](/Unit_4/1-react/1.1-intro-react-and-components-full.md) | [React Dev Skills Lab Part 1](./Unit_4/1-react/1.1.1-react-devskills-lab-part-1.md) |  | 
-| **React Props** | [React JSX & Props](/Unit_4/1-react/1.2-react-jsx-and-props.md) | [React Dev Skills Lab Part 2](/Unit_4/1-react/1.2.1-react-devskills-lab-part-2.md)<br>---<br>[React Floor Plan Lab](/Unit_4/1-react/1.2.2-optional-react-floor-plan-lab.md) |  |
-| **React State** | [React State](/Unit_4/1-react/1.3-react-state.md) | [React Dev Skills Lab Part 3](/Unit_4/1-react/1.3.1-react-devskills-lab-part-3.md)<br>---<br>[React "Students" Lab](/Unit_4/1-react/1.3.2-react-students-lab.md)  |  |
-| **React Forms & Event Handling** | [React Handling Input and Events](/Unit_4/1-react/1.4-react-handling-input-and-events-full.md) | [React Dev Skills Lab Part 4](/Unit_4/1-react/1.4.1-react-devskills-lab-part-4.md)<br>---<br>[React To Do Lab](/Unit_4/1-react/1.4.2-react-to-do-lab.md) |  |
-| **Intro to MERN Stack** | [SPAs & MERN Stack](/Unit_4/2-mern-infrastructure/2.1-intro-spas-and-mern-stack/README.md)<br>---<br>[MERN Infrastructure Part 1](/Unit_4/2-mern-infrastructure/2.2-mern-infrastructure-part-1/README.md) | [React Calendar Lab Part 1](./Unit_4/1-react/1.5.1-optional-react-calendar-lab-part-1.md)<br>---<br>[React Calendar Lab Part 2](./Unit_4/1-react/1.5.2-optional-react-calendar-lab-part-2.md) | [React Tic Tac Toe Hackathon](/Unit_4/2-mern-infrastructure/2.2.1-react-ttt-hackathon.md) |
-| **React Router** | [MERN Infrastructure Part 2](/Unit_4/2-mern-infrastructure/2.3-mern-infrastructure-part-2/README.md)<br>---<br>[MERN Infrastructure Part 3](/Unit_4/2-mern-infrastructure/2.4-mern-infrastructure-part-3/) | [React Movies Lab Part 1](/Unit_4/2-mern-infrastructure/2.3.1-react-movies-lab-part-1.md)<br>---<br>[React Movies Lab Part 2](/Unit_4/2-mern-infrastructure/2.4.1-react-movies-lab-part-2.md) |  |
-| **React Fetch** | [MERN Infrastructure Part 4](/Unit_4/2-mern-infrastructure/2.5-mern-infrastructure-part-4/)<br>---<br>[MERN Infrastructure Part 5](/Unit_4/2-mern-infrastructure/2.6-mern-infrastructure-part-5/) | [React Movies Lab Part 3](/Unit_4/2-mern-infrastructure/2.6.1-react-movies-lab-part-3.md) | [React Giphy Fetch Lab](/Unit_4/2-mern-infrastructure/2.6.2-optional-react-giphy-fetch-lab.md) |
-| **Token-based Auth & AJAX** | [MERN Infrastructure Part 6](/Unit_4/2-mern-infrastructure/2.7-mern-infrastructure-part-6/)<br>---<br>[MERN Infrastructure Part 7](/Unit_4/2-mern-infrastructure/2.8-mern-infrastructure-part-7/) | [MERN-Stack Quick Notes Lab Lab](/Unit_4/2-mern-infrastructure/2.8.1-mern-quick-notes-lab.md)<br>---<br>[MERN Infrastructure Login Lab](/Unit_4/2-mern-infrastructure/2.7.1-mern-infrastructure-login-lab.md) |  |
-| **useEffect & useRef** | [useEffect & useRef](/Unit_4/3-mern-shopping-cart/3.1-react-effect-and-ref-hooks/) | [GA Stock Exchange Lab](/Unit_4/3-mern-shopping-cart/3.1.1-ga-stock-market-lab/) |  |
-| **Mongoose & React** | [MERN-Stack Shopping Cart Part 1](/Unit_4/3-mern-shopping-cart/3.2.1-mern-shopping-cart-part-1/)<br>---<br>[MERN-Stack Shopping Cart Part 2](/Unit_4/3-mern-shopping-cart/3.2.2-mern-shopping-cart-part-2/) | [MERN-Stack Code-Along](/Unit_4/3-mern-shopping-cart/3.3-mern-stack-class-codealong/)  |  |
-| **MERN Build & Deployment** |  | [Deploy MERN App](/Unit_4/4-realtime-socket-io/4.3-deploy-mern-stack.md)  |  |
-| **Testing in React with Jest** | [Jest](/Unit_4/5-react-testing-jest-enzyme/README.md) |   |  |
-
-### Unit 4 Syllabus
-
-#### Fundamentals of React
-- Props
-- JSX
-- State
-- Hooks
-- Forms
-  
-#### MERN Stack Infrastructure
-- React UseEffect
-- Data Fetching
-- React Router
-- Express APIs
-- React Context
-  
-#### Authentication & Deployment
-- Token-Based Authentication
-- Testing with Jest
-
-#### [Capstone Project](/Unit_4/project-4/project-4-requirements.md)
-
-### Potential Unit 4 Schedule
-| Week 10 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Coding Challenge |
-| -- | -- | -- | -- | -- | -- |
-| Day 46 | [Intro to React & Components](./Unit_4/1-react/1.1-intro-react-and-components-full.md)<br>---<br>[React JSX & Props](./Unit_4/1-react/1.2-react-jsx-and-props.md) | [React Dev Skills Lab Part 1](./Unit_4/1-react/1.1.1-react-devskills-lab-part-1.md)<br>---<br>[React Dev Skills Lab Part 2](./Unit_4/1-react/1.2.1-react-devskills-lab-part-2.md) | Lab Completion | [Divide & Conquer Sorting](./computer-science/05-cs-divide-and-conquer-sorts/) | [primeFactors](https://replit.com/@jim_clark/21-primeFactors#challenge.js) |
-| Day 47 | [React State](./Unit_4/1-react/1.3-react-state.md) | [React Dev Skills Lab Part 3](./Unit_4/1-react/1.3.1-react-devskills-lab-part-3.md) | Lab Completion |  | [intersection](https://replit.com/@jim_clark/22-intersection#challenge.js) |
-| Day 48 | [React Handling Input & Events](./Unit_4/1-react/1.4-react-handling-input-and-events-full.md) | [React Dev Skills Lab Part 4](./Unit_4/1-react/1.4.1-react-devskills-lab-part-4.md) | Lab Completion | [Search Algorithms](./computer-science/06-cs-search-algorithms/) | [balancedBrackets](https://replit.com/@jim_clark/23-balancedBrackets#challenge.js) |
-| Day 49 | [Intro to SPAs & MERN-Stack](./Unit_4/2-mern-infrastructure/2.1-intro-spas-and-mern-stack/)<br>---<br>[MERN Infrastructure Part 1](./Unit_4/2-mern-infrastructure/2.2-mern-infrastructure-part-1/) | [React Calendar Lab Part 1](./Unit_4/1-react/1.5.1-optional-react-calendar-lab-part-1.md)<br>---<br>[React Calendar Lab Part 2](./Unit_4/1-react/1.5.2-optional-react-calendar-lab-part-2.md) | Lab Completion |  | [isWinningTicket](https://replit.com/@jim_clark/24-isWinningTicket#challenge.js) |
-| Day 50 | [MERN Infrastructure Part 2](./Unit_4/2-mern-infrastructure/2.3-mern-infrastructure-part-2/)<br>---<br>[MERN Infrastructure Part 3](./Unit_4/2-mern-infrastructure/2.4-mern-infrastructure-part-3/) | [React Movies Lab Part 1](./Unit_4/2-mern-infrastructure/2.3.1-react-movies-lab-part-1.md)<br>---<br>[React Movies Lab Part 2](./Unit_4/2-mern-infrastructure/2.4.1-react-movies-lab-part-2.md) | Lab Completion | [Intro to Data Structures](./computer-science/07a-intro-data-structures/) | [getNumForIP](https://replit.com/@jim_clark/25-getNumForIP#challenge.js) |
-
-
-
-| Week 11 | Lecture(s) | Lab(s) | Homework | Computer Science | Daily Coding Challenge |
-| -- | -- | -- | -- | -- | -- |
-| Day 51 | [MERN Infrastructure Part 4](./Unit_4/2-mern-infrastructure/2.5-mern-infrastructure-part-4/)<br>---<br>[MERN Infrastructure Part 5](./Unit_4/2-mern-infrastructure/2.6-mern-infrastructure-part-5/) | [React Movies Lab Part 3](./Unit_4/2-mern-infrastructure/2.3.1-react-movies-lab-part-1.md) | Lab Completion | [Linked Lists](./computer-science/07b-linked-lists/) | [toCamelCase](https://replit.com/@jim_clark/26-toCamelCase#challenge.js) |
-| Day 52 | [MERN Infrastructure Part 6](./Unit_4/2-mern-infrastructure/2.7-mern-infrastructure-part-6/)<br>---<br>[MERN Infrastructure Part 7](./Unit_4/2-mern-infrastructure/2.8-mern-infrastructure-part-7/) | [MERN Infrastructure Login Lab (after part 6)](./Unit_4/2-mern-infrastructure/2.7.1-mern-infrastructure-login-lab.md) | Lab Completion |  | [countTheBits](https://replit.com/@jim_clark/27-countTheBits#challenge.js) |
-| Day 53 | [useEffect & useRef](./Unit_4/3-mern-shopping-cart/3.1-react-effect-and-ref-hooks/) | [MERN-Stack Quick Notes Lab](./Unit_4/2-mern-infrastructure/2.8.1-mern-quick-notes-lab.md) | Lab Completion | [Stacks & Queues](./computer-science/08-stacks-and-queues/) | [gridTrip](https://replit.com/@jim_clark/28-gridTrip#challenge.js) |
-| Day 54 | [MERN-Stack Shopping Cart Part 1](./Unit_4/3-mern-shopping-cart/3.2.1-mern-shopping-cart-part-1/)---<br><br>[MERN-Stack Shopping Cart Part 2](./Unit_4/3-mern-shopping-cart/3.2.2-mern-shopping-cart-part-2/) | [GA Stock Market Lab](./Unit_4/3-mern-shopping-cart/3.1.1-ga-stock-market-lab/) | Lab Completion |  | [addChecker](https://replit.com/@jim_clark/29-addChecker#challenge.js) |
-| Day 55 | [socket.io](./Unit_4/4-realtime-socket-io/4.1-realtime-with-socket-io/)<br>---<br>[**Optional** Testing React with Jest](./Unit_4/5-react-testing-jest-enzyme/) | [MERN-Stack Class Code-Along](./Unit_4/3-mern-shopping-cart/3.3-mern-stack-class-codealong/) | Lab Completion | [Hash Tables](./computer-science/09-hash-tables/) | [totalTaskTime](https://replit.com/@jim_clark/30-totalTaskTime#challenge.js) |
-
-| Project Week | Stand-up | Support |
-| -- | -- | -- |
-| Day 56 | ✅ | ✔️ |
-| Day 57 | ✅ | ✔️ |
-| Day 58 | ✅ | ✔️ |
-| Day 59 | ✅ | ✔️ |
-| Day 60 | Presentation Day <br> Graduation | ✔️ | 
-<hr>
-
-## Computer Science
-| Lesson | Topic  | Exercises | myGA Module |
-| -- | -- | -- | -- |
-| **Big-O Notation** | [CS Big-O Notation](./computer-science/01-cs-big-o-notation/readme.md) | [Analyzing Algorithms](./computer-science/01-cs-big-o-notation/exercises/BigOExercise.md) | [Big-O Notation: myGA](https://my.generalassemb.ly/activities/511) |
-| **Recursion** | [CS Recursion](./computer-science/02-cs-recursion/readme.md) | [Writing Recursive Functions](./computer-science/02-cs-recursion/exercises/recursion.js) | [Recursion: myGA](https://my.generalassemb.ly/activities/773) |
-| **Intro to Sorting** | [CS Intro to Sorting](./computer-science/03-cs-intro-to-sorting/readme.md) | [My First Sort](./computer-science/03-cs-intro-to-sorting/exercises/MyFirstSort.md) | [Intro to Sorting Algorithms: myGA](https://my.generalassemb.ly/activities/818) |
-| **Basic Sorts** | [CS Basic Sorts](./computer-science/04-cs-basic-sorts/readme.md) | [Implementing Bubble Sort](./computer-science/04-cs-basic-sorts/exercises/BubbleSort.js)<br>---<br>[Implementing Insertion Sort](./computer-science/04-cs-basic-sorts/exercises/InsertionSort.js) | [Basic Sorting Algorithms: myGA](https://my.generalassemb.ly/activities/778) |
-| **Divide & Conquer** | [CS Divide & Conquer](./computer-science/05-cs-divide-and-conquer-sorts/readme.md) | [Implementing Merge Sort](./computer-science/05-cs-divide-and-conquer-sorts/exercises/MergeSort.js)<br>---<br>[Implementing Quick Sort](./computer-science/05-cs-divide-and-conquer-sorts/exercises/QuickSort.js) | [Divide & Conquer Sorting Algorithms: myGA](https://my.generalassemb.ly/activities/882) |
-| **Search Algorithms** | [CS Search Algorithms](./computer-science/06-cs-search-algorithms/readme.md) | [Implementing a Binary Search](./computer-science/06-cs-search-algorithms/exercises/searches.js) | [Search Algorithms: myGA](https://my.generalassemb.ly/activities/633) |
-| **Data Structures and Linked Lists** | [Intro to Data Structures](./computer-science/07a-intro-data-structures/readme.md)<br>---<br>[Linked Lists](./computer-science/07b-linked-lists/readme.md) |<br>---<br>[Implementing a Linked List](./computer-science/07b-linked-lists/exercises/LinkedList.js) | [Intro to Data Structures: myGA](https://my.generalassemb.ly/activities/878?from=dashboard)<br>---<br>[Linked Lists: myGA](https://my.generalassemb.ly/activities/397) |
-| **Stacks & Queues** | [Stacks & Queues](./computer-science/08-stacks-and-queues/readme.md) | [Bracket Matching](./computer-science/08-stacks-and-queues/exercises/stacksAndQueues.js) | [Stacks & Queues: myGA](https://my.generalassemb.ly/activities/803) |
-| **Hash Tables** | [Hash Tables](./computer-science/09-hash-tables/readme.md) | [Implementing a Hash Table](./computer-science/09-hash-tables/exercises/HashTable.js) | [Introduction to Hash Tables: myGA](https://my.generalassemb.ly/activities/512)<br>---<br>[Hash Tables Deep Dive: myGA](https://my.generalassemb.ly/activities/761) |
-| **Binary Trees & Tries** | [Binary Trees & Tries](./computer-science/10-binary-trees-and-tries/README.md) | [Implementing a Binary Tree](./computer-science/10-binary-trees-and-tries/exercises/test/binaryTree.js)<br>---<br>[Implementing an AVL Tree](./computer-science/10-binary-trees-and-tries/exercises/AVLTree.js) | [Binary Trees & Tries: myGA](https://my.generalassemb.ly/activities/8)<br>---<br>[Balancing a Binary Trees: myGA](https://my.generalassemb.ly/activities/263) |
-| **Graphs** | [Graphs](./computer-science/11-graphs/readme.md) | [Implementing a Graph](./computer-science/11-graphs/exercises/Graph.js) | [Graphs: myGA](https://my.generalassemb.ly/activities/403) |
-| **Extra Modules** | [Design Patterns](./computer-science/extra-modules/design-patterns/readme.md)<br>---<br>[Distribution Sorts](./computer-science/extra-modules/distribution-sorts/readme.md)<br>---<br>[Sets](./computer-science/extra-modules/sets/readme.md) | [Design Patterns](./computer-science/extra-modules/design-patterns/exercises/readme.md)<br>---<br>[Implementing Bucket Sort](./computer-science/extra-modules/distribution-sorts/exercises/BucketSort.js)<br>---<br>[Implementing a Set](./computer-science/extra-modules/sets/exercises/Set.js) | [Design Patterns: myGA](https://my.generalassemb.ly/activities/134)<br>---<br>[Distribution Sorting Algorithms: myGA](https://my.generalassemb.ly/activities/802)<br>---<br>[Sets: myGA](https://my.generalassemb.ly/activities/465) |
-<hr>
-
-## Daily Coding Challenges
-- The potential schedule of these challenges can be found in each unit's individual potential schedules. 
-
-| Day | Challenge | Day | Challenge | Day | Challenge |
-| -- | -- | -- | -- | -- | -- |
-| 1 | [addOne](https://replit.com/@jim_clark/01-addOne#challenge.js) | 11 | [isPalindrome](https://replit.com/@jim_clark/11-isPalindrome#challenge.js) | 21 | [primeFactors](https://replit.com/@jim_clark/21-primeFactors#challenge.js) |  
-| 2 | [addTwoNumbers](https://replit.com/@jim_clark/02-addTwoNumbers#challenge.js) | 12 | [hammingDistance](https://replit.com/@jim_clark/12-hammingDistance#challenge.js) | 22 | [intersection](https://replit.com/@jim_clark/22-intersection#challenge.js) |
-| 3 | [sumNumbers](https://replit.com/@jim_clark/03-sumNumbers#challenge.js) | 13 | [mumble](https://replit.com/@jim_clark/13-mumble#challenge.js) | 23 | [balancedBrackets](https://replit.com/@jim_clark/23-balancedBrackets#challenge.js) |
-| 4 | [addList](https://replit.com/@jim_clark/04-addList#challenge.js) | 14 | [fromPairs](https://replit.com/@jim_clark/14-fromPairs#challenge.js) | 24 | [isWinningTicket](https://replit.com/@jim_clark/24-isWinningTicket#challenge.js) |
-| 5 | [computeRemainder](https://replit.com/@jim_clark/05-computeRemainder#challenge.js) | 15 | [mergeObjects](https://replit.com/@jim_clark/15-mergeObjects#challenge.js) | 25 | [getNumForIP](https://replit.com/@jim_clark/25-getNumForIP#challenge.js) |
-| 6 | [range](https://replit.com/@jim_clark/06-range#challenge.js) | 16 | [findHighestPriced](https://replit.com/@jim_clark/16-findHighestPriced#challenge.js) | 26 | [toCamelCase](https://replit.com/@jim_clark/26-toCamelCase#challenge.js) |
-| 7 | [reverseUpcaseString](https://replit.com/@jim_clark/07-reverseUpcaseString#challenge.js) | 17 | [mapArray](https://replit.com/@jim_clark/17-mapArray#challenge.js) | 27 | [countTheBits](https://replit.com/@jim_clark/27-countTheBits#challenge.js) |
-| 8 | [removeEnds](https://replit.com/@jim_clark/08-removeEnds#challenge.js) | 18 | [reduceArray](https://replit.com/@jim_clark/18-reduceArray#challenge.js) | 28 | [gridTrip](https://replit.com/@jim_clark/28-gridTrip#challenge.js) |
-| 9 | [charCount](https://replit.com/@jim_clark/09-charCount#challenge.js) | 19 | [flatten](https://replit.com/@jim_clark/19-flatten#challenge.js) | 29 | [addChecker](https://replit.com/@jim_clark/29-addChecker#challenge.js) |
-| 10 | [formatWithPadding](https://replit.com/@jim_clark/10-formatWithPadding#challenge.js) | 20 | [isPrime](https://replit.com/@jim_clark/20-isPrime#challenge.js) | 30 | [totalTaskTime](https://replit.com/@jim_clark/30-totalTaskTime#challenge.js) |
-
-<hr>
-
-### Acknowledgments
-Special thanks to [Jim Clark](https://git.generalassemb.ly/jim-clark-ga) for providing the majority of the curriculum, and thank you to [Joel Gear](https://git.generalassemb.ly/joeltg) and [Ben Gordon](https://git.generalassemb.ly/benjaminwgordon) for your lesson development and quality checking of every lesson, lab, and homework. 
+# Welcome and good luck!
