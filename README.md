@@ -20,7 +20,7 @@ This will be your shared class repo!
 
 ### Course Dates and Holidays
 
-- Course Dates: Monday, June 5th, 2023 - Tuesday, August, 29th, 2023
+- Course Dates: Monday, September 11th, 2023 - Thursday, December, 7th, 2023
 - Holidays:
     - Friday, November 10th (Veterans Day)
     - Wednesday, November 22th - Friday, November 24th (Thanksgiving Break)
