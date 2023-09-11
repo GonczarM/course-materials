@@ -113,7 +113,7 @@ Links to in-class recording sessions will be maintained in this file in the `res
 
 ### After Hours TA Sessions
 
-Office Hours will be held nightly by Payne and Evan. This time will be an open forum to ask questions and receive assistance with homework. Feel free to pop by any time that works for you. The weekly schedule will be as follows:
+Office Hours will be held nightly by Payne, Ken, and Matt. This time will be an open forum to ask questions and receive assistance with homework. Feel free to pop by any time that works for you. The weekly schedule will be as follows:
 - Monday - Thursday from 6PM - 8PM
 - Saturday from 12PM - 2PM
 
