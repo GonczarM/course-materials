@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/XseXU8J.png" width="900">
 
-# Welcome to General Assembly SEIR-6-5-23
+# Welcome to General Assembly SEIR-9-11-23
 
 This will be your shared class repo!
 
