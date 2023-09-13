@@ -3,5 +3,6 @@
 # Class Recordings
 
 | Week/Day | Description/Link |
-|Week 1/ Day 1|---|
-|Week 2/ Day 2|---|
+|Week 1/ Day 1|
+
+|Week 2/ Day 2|
