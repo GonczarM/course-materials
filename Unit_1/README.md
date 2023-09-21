@@ -47,7 +47,3 @@
 - Events
 - Servers & Hosting
 
-#### Computer Science
-- Intro to Computer Science
-- Recursive Functions
-- Basic Sorting Algorithms
