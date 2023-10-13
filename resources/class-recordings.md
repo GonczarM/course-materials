@@ -16,9 +16,7 @@
 | W04/D2 | [10/03/2023](https://generalassembly.zoom.us/rec/share/vzkC4W82mPNIT2W3vi8qy89T5AxusT3p3LxYmhlxyXUecIi8wUMyRDCH_FR10KA.RHta3lj6y2sUdrw-) |
 | W04/D3 | [10/04/2023](https://generalassembly.zoom.us/rec/share/mLnuZnwHivGfhPwCJeM3EPeTwKwTqSLBe6qc1InB80wANcHR4FGRZaQAxt73sI17.OLP7l3-odfOk1rWu) |
 | W04/D4 | [10/05/2023](https://generalassembly.zoom.us/rec/share/N7DGTvKORAZLbs-xf13KKVOOLCnaXNgG6_MblsfEQrKyyLTAM0l21fwQtdiSpyrA.1RrA4O3j5Cuy5kz1) |
-| W05/D5 | [10/06/2023](https://generalassembly.zoom.us/rec/share/vw7ai4bWJeuspMqSx7NzuMxE2Cppox1wjzrNzznQli40tZLjOngRPtZ3AYKUcjnb.gilw2lXZMQCTvviW) |
-| W06/D1 | [10/09/2023](https://generalassembly.zoom.us/rec/share/T7PYEd5GY1pVZVoac3gNqz9jWhXn68ncyr5hKklIrPqGnjzTmC2epBduL8iFSf4b.C_t4sc0dsqZpJL6W) |
-| W06/D2 | [10/10/2023](https://generalassembly.zoom.us/rec/share/cyV40QbGY7DbpqdPCRrC_xVLgaVFxUsoRSBFbPBSOqcg0HM0xkS3AJOMu6BroSEb.-8ZFwwOSlgCQvGzR) |
-
+| W05/D1 | [10/09/2023](https://generalassembly.zoom.us/rec/share/T7PYEd5GY1pVZVoac3gNqz9jWhXn68ncyr5hKklIrPqGnjzTmC2epBduL8iFSf4b.C_t4sc0dsqZpJL6W) |
+| W05/D3 | [10/11/2023](https://generalassembly.zoom.us/rec/share/8ceZZ9p20vK9PiiRXt55TqNZxVUTq12eiRgPMhFbzQ_1pmzD-dWnxsimviBwor_0.GH14qEWq-rlsvR7N) |
 
 
