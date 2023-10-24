@@ -20,7 +20,6 @@
 | W05/D3 | [10/11/2023](https://generalassembly.zoom.us/rec/share/8ceZZ9p20vK9PiiRXt55TqNZxVUTq12eiRgPMhFbzQ_1pmzD-dWnxsimviBwor_0.GH14qEWq-rlsvR7N) |
 | W05/D5 | [10/13/2023](https://generalassembly.zoom.us/rec/share/_Oqh1paNA0XWumjkqREDZIw1Q82twJx2mOrhnjUmpjvBFOssf8nEtuAgtLkIW09W.f7_u65S_7KYIjXP5) |
 | W06/D2 | [10/17/2023](https://generalassembly.zoom.us/rec/share/cWjWpKxjprqkKh_UdHUN9EB7t7FXc0Qj_fuzLjfsCwD81dd5GQ3XRHxOmwmyyhs.1knlGFw9yhKFpKkn) |
-| W07/D1 | [10/23/2023](https://generalassembly.zoom.us/rec/share/GgKFFINS6_qx2OBSmZ319veZ9nyqneOzgnzE_QdDF1PTjmd8YKHLaZbGS8esL8Kq.gaoazl_c2lYKUkAR
-) |
+| W07/D1 | [10/23/2023](https://generalassembly.zoom.us/rec/share/GgKFFINS6_qx2OBSmZ319veZ9nyqneOzgnzE_QdDF1PTjmd8YKHLaZbGS8esL8Kq.gaoazl_c2lYKUkAR) |
 
 
